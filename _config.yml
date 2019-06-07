@@ -1,12 +1,12 @@
 name: Jekyll Themes
-url: http://gorislab.com
-description: Website for the Goris lab at UT Austin
+url: http://matt.harzewski.com
+description: Insert tagline here
 
 permalink: /themes/:title/
 
 plugins: [jekyll-paginate]
 
-highlighter: rouge
+highlighter: pygments
 paginate: 20
 
 markdown: rdiscount
